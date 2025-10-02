@@ -1,7 +1,7 @@
 <?php
 session_start();
 include 'database.php';
-$sql = "SELECT * FROM products LIMIT 4";
+$sql = "SELECT * FROM products LIMIT 6";
 $result = $conn->query($sql);
 ?>
 <!DOCTYPE html>
