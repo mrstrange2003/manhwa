@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         .login-container {
             max-width: 400px;
-            background-color: #fff;
+            background-color: #e9aaaaff;
             margin: 100px auto;
             padding: 40px;
             border-radius: 10px;

@@ -52,7 +52,7 @@ This project is licensed under the MIT License — see the [LICENSE](./LICENSE) 
 
 **J Dipayan Rao**
 
-> Feel free to use, modify, or extend - just give credit!
+> Everyone is free to make any changes in the code. Any modification which makes the website better, would be highly appreciated. 
 
 
 
