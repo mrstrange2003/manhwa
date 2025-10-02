@@ -27,7 +27,7 @@ $grand_total = 0;
             overflow-y: auto;
             margin: 20px auto;
             width: 90%;
-            border: 1px solid #ccc;
+            border: 1px solid black;
             border-radius: 4px;
         }
 
@@ -37,7 +37,7 @@ $grand_total = 0;
         }
 
         .cart-table th, .cart-table td {
-            border: 1px solid #ccc;
+            border: 1px solid black;
             padding: 12px;
             text-align: center;
         }
@@ -78,7 +78,7 @@ $grand_total = 0;
         }
 
         .remove-btn {
-            background-color: #dc3545;
+            background-color: red;
             padding: 8px 12px;
             border: none;
             color: white;
