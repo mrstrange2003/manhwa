@@ -31,11 +31,11 @@ nav a {
     margin: 10px;
     text-align: center;
     cursor: pointer;
-    width: 200px;
+    width: 500px;
 }
 
 .product img {
-    width: 100%;
+    width: 40%;
     height: auto;
 }
 
