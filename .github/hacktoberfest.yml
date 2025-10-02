@@ -1,0 +1,3 @@
+name: Hacktoberfest 2025
+on: [pull_request]
+contribution_guide: https://github.com/mrstrange2003/manhwa/blob/main/README.md
