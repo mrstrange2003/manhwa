@@ -26,7 +26,16 @@ nav a {
 }
 
 .product {
-    border: 1px solid #ddd;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+    width: 200px;
+}
+
+.product-desc {
+    border: 2px solid black;
     padding: 10px;
     margin: 10px;
     text-align: center;
