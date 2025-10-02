@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         .signup-container {
-            background-color: #fff;
+            background-color: #e9aaaaff;
             padding: 40px 35px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
